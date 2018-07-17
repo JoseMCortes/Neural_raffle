@@ -27,7 +27,7 @@ Solidity project to perform a Raffle using Ether between the participants.
 * npm install --save truffle-hdwallet-provider (installs provider to acces first node in Network)
 * node deploy.js (executes deploy)
 
-## React:
+## React notes:
 
 * npm run start
 * npm install --save web3@1.0.0-beta.26 (installs web3 in React)
